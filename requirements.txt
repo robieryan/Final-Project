@@ -1,0 +1,11 @@
+wfdb
+numpy
+scipy
+pandas
+scikit-learn
+torch
+streamlit
+matplotlib
+plotly
+pyyaml
+joblib
